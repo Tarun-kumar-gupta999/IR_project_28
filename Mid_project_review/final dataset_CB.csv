@@ -1,0 +1,334 @@
+Product Name,ProductId,UserId,Rating,Description,category
+Advil Liqui-Gels,2001,102001,4.5,"Advil Liqui-Gels are a fast-acting pain reliever that provides relief from headaches, muscle aches, toothaches, menstrual cramps, and other types of pain.",Medicine
+Tylenol Extra Strength,2002,102002,4.6,"Tylenol Extra Strength is a pain reliever that provides relief from headaches, muscle aches, toothaches, menstrual cramps, and other types of pain.",Medicine
+Claritin,2003,102003,4.7,"Claritin is an antihistamine that provides relief from allergy symptoms such as sneezing, runny nose, and itchy, watery eyes.",Medicine
+Benadryl,2004,102004,4.5,"Benadryl is an antihistamine that provides relief from allergy symptoms such as sneezing, runny nose, and itchy, watery eyes.",Medicine
+Pepto-Bismol,2005,102005,4.5,"Pepto-Bismol is an antacid and anti-diarrheal medication that provides relief from heartburn, indigestion, upset stomach, and diarrhea.",Medicine
+Cream Cheese,6001,User6,4,"Smooth and creamy, great for spreading on bagels",dairy
+Chocolate Milk,7001,User7,3.7,"Tastes good, but a bit too sweet for me",dairy
+Butter,8001,User8,4.5,"Rich and creamy, perfect for baking",dairy
+Sour Cream,9001,User9,2.8,"Has an odd aftertaste, wouldn't buy again",dairy
+Strawberry Yogurt,10002,User10,4.7,Love the sweet and tangy flavor of this yogurt,dairy
+Blue Cheese,20002,User11,3.9,"A bit pungent for my taste, but great for salads",dairy
+Heavy Cream,30002,User12,4.8,"Perfect for whipping into soft peaks, makes great desserts",dairy
+Buttermilk,40002,User13,2.5,"Not a fan of the tangy taste, wouldn't buy again",dairy
+Ricotta Cheese,50002,User14,4.3,"Great for making lasagna, has a mild flavor",dairy
+Almond Milk,60002,User15,3.6,"A good dairy-free alternative, but a bit thin for my taste",dairy
+Feta Cheese,70002,User16,4.1,"Love the salty and tangy taste, great in salads",dairy
+Whipping Cream,80002,User17,4.6,"Perfect for making whipped cream, has a rich flavor",dairy
+Lactose-Free Milk,90002,User18,3.2,"Good for those who are lactose intolerant, but has a slightly different taste",dairy
+Provolone Cheese,100003,User19,3.9,"Good cheese for sandwiches, has a mild taste",dairy
+Half-and-Half,200003,User20,4.4,"Perfect for adding to coffee or tea, has a creamy texture",dairy
+Goat Cheese,300003,User21,4.2,"Love the tangy taste, great in salads or on crackers",dairy
+Eggnog,400003,User22,4.5,"Love this holiday drink, has a rich and creamy flavor",dairy
+Swiss Cheese,500003,User23,3.7,"Good cheese for melting, has a mild taste",dairy
+Kefir,600003,User24,3.8,"Love the tangy taste and probiotic benefits, great in smoothies",dairy
+iPhone 12 Pro,1001,User25,4.5,"Great phone, love the camera and speed",electronics
+Samsung Galaxy S21 Ultra,2001,User2,4.2,"Good phone, but a bit bulky and heavy",electronics
+Sony WH-1000XM4 Wireless Headphones,3001,User3,4.8,"Best headphones I've ever had, great noise-cancelling",electronics
+Apple AirPods Pro,4001,User4,3.9,"Good sound quality, but not worth the high price",electronics
+Dell XPS 13,5001,User5,4.3,"Great laptop, fast and lightweight",electronics
+LG OLED CX Series 65-Inch TV,6001,User6,4.9,"Amazing picture quality, the best TV I've ever owned",electronics
+Logitech MX Master 3 Wireless Mouse,7001,User7,4.5,"Comfortable and precise, great for work",electronics
+Microsoft Surface Pro 7,8001,User8,3.7,"Good laptop/tablet hybrid, but a bit expensive",electronics
+Fitbit Versa 3,9001,User9,4.1,"Love the fitness tracking features, but the battery life could be better",electronics
+Bose QuietComfort 35 II Wireless Headphones,10002,User10,4.6,"Great noise-cancelling, but a bit heavy",electronics
+Google Nest Hub Max,20002,User11,4,"Good smart home device, but not as versatile as other options",electronics
+DJI Mavic Air 2 Drone,30002,User12,4.8,"Amazing camera and flight stability, great for aerial photography",electronics
+Apple iPad Pro,40002,User13,4.2,"Great tablet, fast and powerful",electronics
+Samsung Q80T Series 55-Inch TV,50002,User14,4.4,"Good picture quality, but the smart features could be improved",electronics
+Razer Blade 15,60002,User15,4.5,"Great gaming laptop, fast and smooth gameplay",electronics
+Sonos Move,70002,User16,4.3,"Good sound quality, but a bit heavy for a portable speaker",electronics
+Skinny Jeans,1001,User1,4.5,"Love the fit and stretch of these jeans, they're my go-to pair",cloth
+Leather Jacket,2001,User2,3.2,"Looks great, but the leather is a bit stiff",cloth
+High Heels,3001,User3,2.1,"These shoes are beautiful, but so uncomfortable to wear",cloth
+T-Shirt,4001,User4,4.9,"Soft and comfortable, great for everyday wear",cloth
+Sunglasses,5001,User5,3.8,"Stylish and good quality, but a bit too small for my face",cloth
+Sneakers,6001,User6,4,"Love the comfort and style of these shoes, great for running",cloth
+Cocktail Dress,7001,User7,3.7,"Beautiful dress, but a bit too tight in the chest area",cloth
+Hoodie,8001,User8,4.5,"Soft and warm, perfect for colder weather",cloth
+Backpack,9001,User9,2.8,"Looks good, but the straps are uncomfortable",cloth
+Ankle Boots,10002,User10,4.7,"Love the look and comfort of these boots, great for dressing up or down",cloth
+Blouse,20002,User11,3.9,"Pretty top, but the fabric is a bit scratchy",cloth
+Sandals,30002,User12,4.8,"Cute and comfortable, perfect for summer",cloth
+Leather Bag,40002,User13,2.5,"Looks great, but the strap is too short for my liking",cloth
+Sweater,50002,User14,4.3,"Love the softness and warmth of this sweater, great for layering",cloth
+Watch,60002,User15,3.6,"Stylish watch, but the band is a bit stiff",cloth
+Skirt,70002,User16,4.1,"Flattering and comfortable, great for work or special occasions",cloth
+Belt,80002,User17,4.6,"Nice quality belt, fits well and looks good with a variety of outfits",cloth
+Scarf,90002,User18,3.2,"Soft and warm, but a bit shorter than I expected",cloth
+Running Shoes,100003,User19,3.9,"Great for running, but a bit tight around the toe area",cloth
+Cardigan,200003,User20,4.4,"Love the comfort and versatility of this cardigan, can be dressed up or down",cloth
+Earrings,300003,User21,4.2,"Pretty earrings, but a bit heavy for my liking",cloth
+Backpack Purse,400003,User22,4.5,"Love the convenience and style of this purse, great for everyday use",cloth
+Coat,500003,User2,3.7,"Good quality coat, but a bit bulky",cloth
+Jumpsuit,600003,User24,3.8,"Love the style of this jumpsuit, but the fabric is a bit scratchy",cloth
+Running Shorts,700003,User25,4.2,"Comfortable and great for running, love the pockets",cloth
+Aspirin,1001,User1,4.5,"Pain reliever and fever reducer, contains 325 mg of aspirin per tablet",medicine
+Ibuprofen,2001,User2,3.2,"Pain reliever and fever reducer, contains 200 mg of ibuprofen per tablet",medicine
+Acetaminophen,3001,User3,2.1,"Pain reliever and fever reducer, contains 500 mg of acetaminophen per tablet",medicine
+Vitamin C,4001,User4,4.9,"Immune system support, contains 1000 mg of vitamin C per tablet",medicine
+Vitamin D,5001,User5,3.8,"Bone health support, contains 2000 IU of vitamin D3 per tablet",medicine
+Calcium,6001,User67,4,"Bone health support, contains 500 mg of calcium carbonate per tablet",medicine
+Magnesium,7001,User7,3.7,"Nerve and muscle function support, contains 250 mg of magnesium per tablet",medicine
+Zinc,8001,User8,4.5,"Immune system support, contains 50 mg of zinc per tablet",medicine
+Probiotic,9001,User9,2.8,"Digestive health support, contains 10 billion CFUs of probiotic bacteria per capsule",medicine
+Melatonin,10002,User10,4.7,"Sleep aid, contains 5 mg of melatonin per tablet",medicine
+Omega-3,20002,User11,3.9,"Heart health support, contains 1000 mg of omega-3 fatty acids per softgel",medicine
+Multivitamin,30002,User12,4.8,"Overall health support, contains a variety of vitamins and minerals per tablet",medicine
+Coenzyme Q10,40002,User13,2.5,"Heart health support, contains 100 mg of CoQ10 per softgel",medicine
+Cranberry,50002,User14,4.3,"Urinary tract health support, contains 500 mg of cranberry extract per capsule",medicine
+Fish Oil,60002,User15,3.6,"Heart and brain health support, contains 1000 mg of fish oil per softgel",medicine
+Iron,70002,User16,4.1,"Blood health support, contains 18 mg of iron per tablet",medicine
+Biotin,80002,User17,4.6,"Hair, skin, and nail health support, contains 5000 mcg of biotin per tablet",medicine
+Echinacea,90002,User18,3.2,"Immune system support, contains 400 mg of echinacea per capsule",medicine
+Ginkgo Biloba,100003,User19,3.9,"Brain health support, contains 120 mg of ginkgo biloba extract per capsule",medicine
+St. John's Wort,200003,User20,4.4,"Mood support, contains 300 mg of St. John's Wort extract per capsule",medicine
+Turmeric,300003,User21,4.2,"Joint and immune system support, contains 500 mg of turmeric extract per capsule",medicine
+Sophie the Giraffe,1001,User1,4.5,Teething toy made of natural rubber and food-grade paint,Baby Toys
+Fisher-Price Rattle 'n Rock Maracas,2001,User20,3.2,Colorful rattle toys that make noise when shaken,Baby Toys
+Lamaze Freddie the Firefly,3001,User3,4.1,"Soft toy with bright colors and crinkly wings, features a teether and clip for easy attachment",Baby Toys
+Skip Hop Explore and More Baby's View 3-Stage Activity Center,4001,User4,4.7,Activity center with a rotating seat and toys for babies to explore and play with,Baby Toys
+VTech Sit-to-Stand Learning Walker,5001,User5,3.8,"Interactive learning walker with a removable play panel, can be used as a floor toy or walker",Baby Toys
+Manhattan Toy Winkel Rattle and Sensory Teether Toy,6001,User6,4,"Colorful teething toy with loops and rattle beads, made of BPA-free and PVC-free materials",Baby Toys
+Baby Einstein Take Along Tunes Musical Toy,7001,User7,4.3,"Portable musical toy with colorful lights and classical music, easy for babies to grasp and carry",Baby Toys
+Sassy Developmental Bumpy Ball,8001,User8,4.5,"Soft ball with multiple textures and bright colors, helps with sensory development and hand-eye coordination",Baby Toys
+TUMAMA Baby Blocks,9001,User9,4.8,"Set of soft blocks with different textures and shapes, promotes sensory and cognitive development",Baby Toys
+Bright Starts Clack and Slide Activity Ball,10002,User10,3.9,"Colorful ball with a variety of textures and activities, including a clacking frog and spinning paddle",Baby Toys
+Hape Pound & Tap Bench with Slide Out Xylophone,20002,User11,4.6,"Wooden toy with a pounding bench and xylophone, helps with fine motor skills and musical development",Baby Toys
+Fat Brain Toys Dimpl Digits Baby Toy,30002,User12,4.2,"Silicone sensory toy with numbered bubbles to push and pop, promotes tactile and visual learning",Baby Toys
+The First Years Stack Up Cups,40002,User13,4.4,"Set of colorful stacking cups that can be nested or stacked, helps with hand-eye coordination and spatial awareness",Baby Toys
+B. Toys One Two Squeeze Baby Blocks,50002,User14,3.5,"Set of soft blocks with animal designs and numbers, promotes sensory and cognitive development",Baby Toys
+Manhattan Toy Skwish Classic Rattle and Teether Grasping Activity Toy,60002,User15,4.1,"Wooden toy with stretchy elastic and beads, can be grasped and twisted to promote fine motor skills and sensory development",Baby Toys
+Melissa & Doug Shape Sorting Cube Classic Wooden Toy,70002,User16,4.7,"Wooden cube with different shaped holes and blocks to sort, promotes problem-solving and spatial awareness",Baby Toys
+MacBook Pro,1001,10001,4.5,"The MacBook Pro is a high-performance laptop with a Retina display, powerful processors, and long battery life. Great for work or play.",Electronics
+Samsung Galaxy S21 Ultra,1002,10002,4.8,"The Samsung Galaxy S21 Ultra is a top-of-the-line smartphone with a large, high-resolution display, advanced camera system, and 5G connectivity. Perfect for mobile enthusiasts.",Electronics
+Bose QuietComfort 35 II,1003,10003,4.6,"The Bose QuietComfort 35 II headphones are wireless, noise-cancelling headphones with a comfortable fit and great sound quality. Perfect for listening on-the-go or at home.",Electronics
+Sony PlayStation 5,1004,10004,4.9,"The Sony PlayStation 5 is the latest and greatest gaming console with lightning-fast load times, high-fidelity graphics, and immersive gameplay. Great for gamers of all levels.",Electronics
+LG OLED TV,1005,10005,4.7,"The LG OLED TV is a top-rated television with a stunning picture quality, powerful audio, and smart features. Perfect for movie nights, sports events, or gaming sessions.",Electronics
+Logitech MX Master 3,1006,10006,4.4,"The Logitech MX Master 3 is an advanced wireless mouse with a customizable design, advanced tracking technology, and long battery life. Great for productivity and creative tasks.",Electronics
+Nest Learning Thermostat,1007,10007,4.2,The Nest Learning Thermostat is a smart thermostat that learns your habits and preferences to automatically adjust your home's temperature. Perfect for saving energy and money.,Electronics
+Fitbit Charge 5,1008,10008,4.3,"The Fitbit Charge 5 is a fitness tracker with a sleek design, advanced health tracking features, and long battery life. Perfect for tracking workouts and staying active.",Electronics
+Apple AirPods Pro,1009,10009,4.7,"The Apple AirPods Pro are wireless earbuds with noise-cancellation, a comfortable fit, and great sound quality. Perfect for music lovers and podcast enthusiasts.",Electronics
+DJI Mavic Air 2,1010,10010,4.5,"The DJI Mavic Air 2 is a high-performance drone with 4K video, advanced obstacle avoidance, and a long flight time. Great for aerial photography and videography.",Electronics
+Samsung QLED TV,1011,10011,4.6,"The Samsung QLED TV is a top-rated television with a QLED display, powerful audio, and smart features. Perfect for movie nights, sports events, or gaming sessions.",Electronics
+Dell XPS 13,1013,10013,4.7,"The Dell XPS 13 is a premium laptop with a stunning display, powerful performance, and long battery life. Perfect for professionals and students.",Electronics
+GoPro HERO10 Black,1014,10014,4.9,"The GoPro HERO10 Black is a high-performance action camera with 5.3K video, HyperSmooth 4.0, and a waterproof design. Great for capturing epic adventures.",Electronics
+Amazon Echo (4th Gen),1015,10015,4.5,"The Amazon Echo (4th Gen) is a smart speaker with Alexa, premium sound, and a sleek design. Perfect for controlling your smart home and playing music.",Electronics
+Microsoft Surface Laptop 4,1016,10016,4.6,"The Microsoft Surface Laptop 4 is a stylish and powerful laptop with a touch screen, long battery life, and advanced security features. Perfect for work or personal use.",Electronics
+Sony WH-1000XM4,1017,10017,4.8,"The Sony WH-1000XM4 are noise-cancelling headphones with advanced features like adaptive sound control, touch controls, and long battery life. Perfect for commuting or travel.",Electronics
+Nintendo Switch OLED Model,1018,10018,4.7,"The Nintendo Switch OLED Model is the latest and greatest gaming console with a vibrant OLED screen, enhanced audio, and up to 9 hours of battery life. Great for gaming on-the-go.",Electronics
+Sonos Beam,1019,10019,4.4,"The Sonos Beam is a smart soundbar with Alexa, Google Assistant, and Apple AirPlay 2 built-in, as well as rich, immersive sound. Perfect for enhancing your home entertainment experience.",Electronics
+Sony Alpha a7 III,1020,10020,4.9,"The Sony Alpha a7 III is a high-end mirrorless camera with advanced autofocus, high-resolution image sensor, and 4K video capabilities. Great for professional photographers and videographers.",Electronics
+HP Spectre x360,1021,10021,4.6,"The HP Spectre x360 is a sleek and powerful laptop with a convertible design, long battery life, and stunning display. Perfect for work or play.",Electronics
+Bose SoundLink Revolve+,1022,10022,4.5,"The Bose SoundLink Revolve+ is a portable Bluetooth speaker with 360-degree sound, long battery life, and water-resistant design. Great for outdoor adventures and social gatherings.",Electronics
+Samsung Galaxy Watch 4,1023,10023,4.3,"The Samsung Galaxy Watch 4 is a stylish and advanced smartwatch with fitness tracking, health monitoring, and long battery life. Perfect for staying connected and active.",Electronics
+Apple iPhone 13 Pro Max,1025,10025,4.9,"The Apple iPhone 13 Pro Max is the latest and greatest iPhone with a stunning camera, powerful performance, and long battery life. Perfect for photographers and power users.",Electronics
+Dell Alienware m15 R4,1026,10026,4.7,"The Dell Alienware m15 R4 is a high-end gaming laptop with advanced graphics, stunning display, and fast performance. Great for serious gamers and game developers.",Electronics
+Fitbit Charge 5,1027,10027,4.4,"The Fitbit Charge 5 is a premium fitness tracker with advanced features like ECG, stress tracking, and long battery life. Perfect for staying active and healthy.",Electronics
+Sony PlayStation 5,1028,10028,4.8,"The Sony PlayStation 5 is the latest and greatest gaming console with stunning graphics, fast performance, and a sleek design. Great for gamers of all ages.",Electronics
+Lenovo ThinkPad X1 Carbon,1029,10029,4.6,"The Lenovo ThinkPad X1 Carbon is a high-end business laptop with a lightweight design, long battery life, and advanced security features. Perfect for professionals on-the-go.",Electronics
+JBL Flip 5,1030,10030,4.5,"The JBL Flip 5 is a portable Bluetooth speaker with a waterproof design, long battery life, and powerful sound. Perfect for outdoor adventures and social gatherings.",Electronics
+Canon EOS R6,1031,10031,4.9,"The Canon EOS R6 is a high-end mirrorless camera with advanced autofocus, high-resolution image sensor, and 4K video capabilities. Great for professional photographers and videographers.",Electronics
+Samsung Galaxy S21 Ultra,1032,10032,4.7,"The Samsung Galaxy S21 Ultra is a premium smartphone with a stunning camera, powerful performance, and long battery life. Perfect for photographers and power users.",Electronics
+Bose QuietComfort Earbuds,1033,10033,4.8,"The Bose QuietComfort Earbuds are wireless noise-cancelling earbuds with advanced features like ANC, touch controls, and long battery life. Perfect for commuting or travel.",Electronics
+ASUS ROG Zephyrus G14,1034,10034,4.6,"The ASUS ROG Zephyrus G14 is a high-end gaming laptop with advanced graphics, stunning display, and fast performance. Great for serious gamers and game developers.",Electronics
+LG 27GN950-B,1035,10035,4.7,"The LG 27GN950-B is a high-end gaming monitor with advanced features like 4K resolution, fast refresh rate, and G-Sync compatibility. Perfect for serious gamers and game developers.",Electronics
+Apple AirPods Pro,1037,10037,4.5,"The Apple AirPods Pro are wireless earbuds with advanced features like active noise cancellation, transparency mode, and long battery life. Great for music lovers and commuters.",Electronics
+Acer Predator Helios 300,1038,10038,4.6,"The Acer Predator Helios 300 is a high-end gaming laptop with advanced graphics, fast performance, and a sleek design. Great for serious gamers and game developers.",Electronics
+Nikon Z6 II,1039,10039,4.8,"The Nikon Z6 II is a high-end mirrorless camera with advanced autofocus, high-resolution image sensor, and 4K video capabilities. Perfect for professional photographers and videographers.",Electronics
+Samsung Galaxy Watch 4,1040,10040,4.7,"The Samsung Galaxy Watch 4 is a premium smartwatch with advanced features like ECG, SpO2, and long battery life. Perfect for staying active and connected.",Electronics
+Razer Blade 15,1041,10041,4.7,"The Razer Blade 15 is a high-end gaming laptop with advanced graphics, fast performance, and a sleek design. Great for serious gamers and game developers.",Electronics
+Sony WH-1000XM4,1042,10042,4.6,"The Sony WH-1000XM4 are wireless noise-cancelling headphones with advanced features like ANC, touch controls, and long battery life. Perfect for commuting or travel.",Electronics
+LG OLED65CXPUA,1043,10043,4.8,"The LG OLED65CXPUA is a high-end OLED TV with advanced features like 4K resolution, HDR, and Dolby Atmos. Perfect for movie and TV lovers.",Electronics
+Microsoft Surface Pro 7,1044,10044,4.5,"The Microsoft Surface Pro 7 is a high-end 2-in-1 laptop with a lightweight design, long battery life, and advanced features. Perfect for professionals on-the-go.",Electronics
+Sony Alpha 7 III,1045,10045,4.9,"The Sony Alpha 7 III is a high-end mirrorless camera with advanced autofocus, high-resolution image sensor, and 4K video capabilities. Perfect for professional photographers and videographers.",Electronics
+Jabra Elite 85t,1046,10046,4.5,"The Jabra Elite 85t are wireless earbuds with advanced features like ANC, touch controls, and long battery life. Perfect for music lovers and commuters.",Electronics
+ASUS TUF Gaming A15,1047,10047,4.6,"The ASUS TUF Gaming A15 is a high-end gaming laptop with advanced graphics, fast performance, and a durable design. Great for serious gamers and game developers.",Electronics
+Bose SoundLink Revolve+,1049,10049,4.7,"The Bose SoundLink Revolve+ is a high-end Bluetooth speaker with advanced features like 360-degree sound, long battery life, and water-resistant design. Perfect for outdoor adventures.",Electronics
+HP Spectre x360,1050,10050,4.6,"The HP Spectre x360 is a high-end 2-in-1 laptop with a slim design, long battery life, and advanced features. Perfect for professionals on-the-go.",Electronics
+DJI Mavic 2 Pro,1051,10051,4.8,"The DJI Mavic 2 Pro is a high-end drone with advanced features like 4K video, 3-axis gimbal, and long battery life. Perfect for aerial photographers and videographers.",Electronics
+Samsung Galaxy Tab S7+,1052,10052,4.7,"The Samsung Galaxy Tab S7+ is a high-end tablet with advanced features like a 120Hz refresh rate, S Pen support, and long battery life. Perfect for productivity and entertainment.",Electronics
+LG 27UK850-W,1053,10053,4.8,"The LG 27UK850-W is a high-end monitor with advanced features like 4K resolution, HDR, and USB-C connectivity. Perfect for content creators and professionals.",Electronics
+GoPro HERO9 Black,1054,10054,4.6,"The GoPro HERO9 Black is a high-end action camera with advanced features like 5K video, HyperSmooth 3.0, and long battery life. Perfect for capturing outdoor adventures.",Electronics
+Bose QuietComfort 35 II,1055,10055,4.6,"The Bose QuietComfort 35 II are wireless noise-cancelling headphones with advanced features like ANC, touch controls, and long battery life. Perfect for commuting or travel.",Electronics
+ASUS ROG Strix G15,1056,10056,4.7,"The ASUS ROG Strix G15 is a high-end gaming laptop with advanced graphics, fast performance, and a stylish design. Great for serious gamers and game developers.",Electronics
+Sonos One,1057,10057,4.5,"The Sonos One is a high-end smart speaker with advanced features like voice control, multi-room audio, and long-range connectivity. Perfect for music lovers and smart home enthusiasts.",Electronics
+Dell XPS 13,1058,10058,4.8,"The Dell XPS 13 is a high-end laptop with a slim design, long battery life, and advanced features. Perfect for professionals on-the-go.",Electronics
+Apple iPad Air,1059,10059,4.7,"The Apple iPad Air is a high-end tablet with advanced features like a 10.9-inch Liquid Retina display, Apple Pencil support, and A14 Bionic chip. Perfect for productivity and entertainment.",Electronics
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Zantac,2006,102006,4.4,"Zantac is an antacid medication that provides relief from heartburn, acid reflux, and other digestive issues.",Medicine
+Robitussin DM,2007,102007,4.5,"Robitussin DM is a cough suppressant and expectorant that provides relief from coughs due to colds, flu, or bronchitis.",Medicine
+Mucinex DM,2008,102008,4.6,"Mucinex DM is an expectorant and cough suppressant that provides relief from coughs due to colds, flu, or bronchitis.",Medicine
+Advil PM,2009,102009,4.6,Advil PM is a pain reliever and sleep aid that provides relief from pain and helps you fall asleep faster.,Medicine
+Excedrin Migraine,2010,102010,4.6,Excedrin Migraine is a pain reliever that provides relief from migraines and other types of headaches.,Medicine
+NyQuil,2011,102011,4.5,"NyQuil is a nighttime cold and flu relief medication that provides relief from symptoms such as cough, congestion, and sore throat.",Medicine
+DayQuil,2012,102012,4.5,"DayQuil is a daytime cold and flu relief medication that provides relief from symptoms such as cough, congestion, and sore throat.",Medicine
+Aleve,2014,102014,4.6,"Aleve is a pain reliever that provides relief from headaches, muscle aches, toothaches, menstrual cramps, and other types of pain.",Medicine
+Tums,2015,102015,4.5,"Tums is an antacid medication that provides relief from heartburn, indigestion, upset stomach, and other digestive issues.",Medicine
+Motrin,2016,102016,4.5,"Motrin is a pain reliever that provides relief from headaches, muscle aches, toothaches, menstrual cramps, and other types of pain.",Medicine
+Imodium,2017,102017,4.4,Imodium is an anti-diarrheal medication that provides relief from diarrhea and other digestive issues.,Medicine
+Pepto-Bismol Chewables,2018,102018,4.5,"Pepto-Bismol Chewables are an antacid and anti-diarrheal medication that provides relief from heartburn, indigestion, upset stomach, and diarrhea.",Medicine
+Preparation H,2019,102019,4.5,Preparation H is a medication used to relieve symptoms associated with hemorrhoids.,Medicine
+Dulcolax,2020,102020,4.5,Dulcolax is a laxative that provides relief from constipation and other digestive issues.,Medicine
+Kaopectate,2021,102021,4.4,Kaopectate is an anti-diarrheal medication that provides relief from diarrhea and other digestive issues.,Medicine
+Gas-X,2022,102022,4.5,Gas-X is an anti-gas medication that provides relief from gas and bloating.,Medicine
+Alka-Seltzer,2023,102023,4.4,"Alka-Seltzer is an antacid and pain reliever that provides relief from heartburn, indigestion, upset stomach, headaches, and other types of pain.",Medicine
+Midol,2024,102024,4.5,Midol is a medication used to relieve symptoms associated with menstrual cramps.,Medicine
+Zyrtec,2025,102025,4.7,"Zyrtec is an antihistamine that provides relief from allergy symptoms such as sneezing, runny nose, and itchy, watery eyes.",Medicine
+Sudafed PE,2026,102026,4.5,"Sudafed PE is a nasal decongestant that provides relief from nasal congestion due to colds, flu, or allergies.",Medicine
+Flonase,2027,102027,4.6,"Flonase is a nasal spray that provides relief from allergy symptoms such as sneezing, runny nose, and itchy, watery eyes.",Medicine
+Tylenol Extra Strength,2028,102028,4.6,"Tylenol Extra Strength is a pain reliever that provides relief from headaches, muscle aches, toothaches, menstrual cramps, and other types of pain.",Medicine
+Mucinex DM,2029,102029,4.5,"Mucinex DM is an expectorant and cough suppressant that provides relief from cough due to colds, flu, or allergies.",Medicine
+Benadryl,2030,102030,4.7,"Benadryl is an antihistamine that provides relief from allergy symptoms such as sneezing, runny nose, and itchy, watery eyes.",Medicine
+Robitussin,2031,102031,4.5,"Robitussin is a cough syrup that provides relief from cough due to colds, flu, or allergies.",Medicine
+Advil,2032,102032,4.6,"Advil is a pain reliever that provides relief from headaches, muscle aches, toothaches, menstrual cramps, and other types of pain.",Medicine
+Dramamine,2033,102033,4.5,Dramamine is an antiemetic medication that provides relief from motion sickness and nausea.,Medicine
+Alavert,2034,102034,4.5,"Alavert is an antihistamine that provides relief from allergy symptoms such as sneezing, runny nose, and itchy, watery eyes.",Medicine
+Excedrin Migraine,2035,102035,4.6,Excedrin Migraine is a pain reliever that provides relief from migraine headaches.,Medicine
+Aleve PM,2036,102036,4.5,Aleve PM is a pain reliever and sleep aid that provides relief from pain and helps you fall asleep.,Medicine
+Theraflu,2037,102037,4.5,"Theraflu is a cold and flu medication that provides relief from cough, congestion, fever, and other symptoms associated with colds and flu.",Medicine
+Visine,2038,102038,4.5,"Visine is an eye drop that provides relief from redness, dryness, and irritation of the eyes.",Medicine
+Orajel,2039,102039,4.4,Orajel is a topical pain reliever that provides relief from toothache and other types of oral pain.,Medicine
+Zantac,2040,102040,4.5,"Zantac is an antacid medication that provides relief from heartburn, indigestion, and other digestive issues.",Medicine
+Nexium,2042,102042,4.5,"Nexium is a proton pump inhibitor that provides relief from heartburn, acid reflux, and other digestive issues.",Medicine
+Pepcid AC,2043,102043,4.5,"Pepcid AC is an antacid medication that provides relief from heartburn, acid reflux, and other digestive issues.",Medicine
+Imodium,2044,102044,4.5,Imodium is an anti-diarrheal medication that provides relief from diarrhea and other symptoms associated with digestive issues.,Medicine
+Tylenol Cold + Flu,2045,102045,4.5,"Tylenol Cold + Flu is a cold and flu medication that provides relief from cough, congestion, fever, and other symptoms associated with colds and flu.",Medicine
+Sudafed PE,2046,102046,4.5,"Sudafed PE is a decongestant that provides relief from nasal congestion, sinus pressure, and other symptoms associated with colds and allergies.",Medicine
+Zyrtec,2047,102047,4.6,"Zyrtec is an antihistamine that provides relief from allergy symptoms such as sneezing, runny nose, and itchy, watery eyes.",Medicine
+Tums,2048,102048,4.5,"Tums is an antacid medication that provides relief from heartburn, indigestion, and other digestive issues.",Medicine
+Motrin,2049,102049,4.6,"Motrin is a pain reliever that provides relief from headaches, muscle aches, toothaches, menstrual cramps, and other types of pain.",Medicine
+Nyquil,2050,102050,4.5,"Nyquil is a cold and flu medication that provides relief from cough, congestion, fever, and other symptoms associated with colds and flu.",Medicine
+Allegra,2051,102051,4.6,"Allegra is an antihistamine that provides relief from allergy symptoms such as sneezing, runny nose, and itchy, watery eyes.",Medicine
+Pepto-Bismol,2052,102052,4.5,"Pepto-Bismol is an antacid medication that provides relief from heartburn, indigestion, and other digestive issues.",Medicine
+Robaxin,2053,102053,4.5,Robaxin is a muscle relaxant that provides relief from muscle pain and stiffness caused by injuries or other conditions.,Medicine
+Dulcolax,2054,102054,4.5,Dulcolax is a laxative medication that provides relief from constipation and other symptoms associated with digestive issues.,Medicine
+Advil,2056,102056,4.6,"Advil is a pain reliever that provides relief from headaches, muscle aches, toothaches, menstrual cramps, and other types of pain.",Medicine
+Flonase,2057,102057,4.5,"Flonase is a nasal spray that provides relief from allergy symptoms such as sneezing, runny nose, and congestion.",Medicine
+Benadryl,2058,102058,4.5,"Benadryl is an antihistamine that provides relief from allergy symptoms such as sneezing, runny nose, and itchy, watery eyes.",Medicine
+Mucinex,2059,102059,4.5,"Mucinex is an expectorant that provides relief from cough and congestion caused by colds, flu, and other respiratory illnesses.",Medicine
+Sudafed,2060,102060,4.5,"Sudafed is a decongestant that provides relief from nasal congestion, sinus pressure, and other symptoms associated with colds and allergies.",Medicine
+Zantac,2061,102061,4.5,"Zantac is an antacid medication that provides relief from heartburn, acid reflux, and other digestive issues.",Medicine
+Prilosec,2062,102062,4.5,"Prilosec is a proton pump inhibitor that provides relief from heartburn, acid reflux, and other digestive issues.",Medicine
+Claritin,2063,102063,4.6,"Claritin is an antihistamine that provides relief from allergy symptoms such as sneezing, runny nose, and itchy, watery eyes.",Medicine
+Excedrin,2064,102064,4.5,"Excedrin is a pain reliever that provides relief from headaches, migraines, and other types of pain.",Medicine
+Aleve,2065,102065,4.6,"Aleve is a pain reliever that provides relief from headaches, muscle aches, menstrual cramps, and other types of pain.",Medicine
+Robitussin,2066,102066,4.5,"Robitussin is a cough suppressant that provides relief from cough and other symptoms associated with colds, flu, and other respiratory illnesses.",Medicine
+Gas-X,2067,102067,4.5,Gas-X is an antacid medication that provides relief from gas and other symptoms associated with digestive issues.,Medicine
+Icy Hot,2068,102068,4.5,"Icy Hot is a topical analgesic that provides relief from muscle and joint pain caused by injuries, arthritis, and other conditions.",Medicine
+Fisher-Price Rock-a-Stack,3001,103001,4.5,This classic stacking toy is perfect for babies and toddlers. It includes five brightly colored rings and a rocking base.,Baby Toys
+VTech Sit-to-Stand Learning Walker,3002,103002,4.6,"This interactive walker features a removable activity panel with music, lights, and educational games to help babies develop fine motor skills and learn numbers, shapes, and colors.",Baby Toys
+Baby Einstein Take Along Tunes Musical Toy,3003,103003,4.7,This musical toy plays seven classical melodies and features colorful lights that dance to the music. It's perfect for entertaining babies on the go.,Baby Toys
+Nuby Ice Gel Teether Keys,3004,103004,4.5,These teething keys feature a soft silicone texture and can be chilled in the refrigerator for added relief for teething babies.,Baby Toys
+Sassy Developmental Bumpy Ball,3005,103005,4.5,This bumpy ball features bright colors and multiple textures to stimulate babies' senses and encourage grasping and exploration.,Baby Toys
+Lamaze Freddie The Firefly,3006,103006,4.6,"This soft toy features a colorful body with multiple textures, a rattling head, and crinkly wings to stimulate babies' senses and promote motor skills.",Baby Toys
+Baby Banana Infant Training Toothbrush and Teether,3007,103007,4.5,This toothbrush and teether is designed to promote healthy oral hygiene and soothe teething gums. It features a soft silicone texture and is easy for babies to grasp.,Baby Toys
+Manhattan Toy Winkel Rattle and Sensory Teether Toy,3008,103008,4.5,This teething toy features a colorful design with multiple textures and a rattle in the center to stimulate babies' senses and promote grasping and exploration.,Baby Toys
+Oball Shaker,3009,103009,4.4,This colorful shaker toy features an easy-to-grasp design and multiple rattle sounds to stimulate babies' senses and promote motor skills.,Baby Toys
+Bright Starts Clack and Slide Activity Ball,3010,103010,4.6,"This activity ball features multiple textures and activities, including a sliding frog and clacking beads, to promote motor skills and exploration.",Baby Toys
+Skip Hop Explore and More Baby's View 3-Stage Activity Center,3011,103011,4.7,This activity center features a 360-degree rotating seat with multiple toys and activities to promote sensory exploration and motor skills for babies in different stages of development.,Baby Toys
+Baby Einstein Bendy Ball Rattle Toy,3012,103012,4.5,This flexible ball features a colorful design and a rattling noise to stimulate babies' senses and promote grasping and exploration.,Baby Toys
+VTech Busy Learners Activity Cube,3014,103014,4.6,"This interactive cube features five sides of activities, including spinning gears, a piano keyboard, and animal sounds, to promote fine motor skills and cognitive development in babies and toddlers.",Baby Toys
+Tomy Hide & Squeak Eggs,3015,103015,4.7,This set of six eggs features a variety of faces and colors and a unique shape that encourages babies to sort and match them. They also make a squeaking noise when pressed.,Baby Toys
+Baby Einstein Octoplush Plush Toy,3016,103016,4.6,This plush toy features a cute octopus design with multiple textures and a variety of classical melodies to stimulate babies' senses and promote cognitive development.,Baby Toys
+Fisher-Price Brilliant Basics Corn Popper,3017,103017,4.5,This classic push toy features a bright design and popping balls to promote gross motor skills and sensory exploration for babies and toddlers.,Baby Toys
+Manhattan Toy Skwish Classic Rattle and Teether Grasping Activity Toy,3018,103018,4.7,This teething toy features a unique design with colorful wooden beads that slide and squish to promote grasping and sensory exploration in babies.,Baby Toys
+Bright Starts Grab and Spin Rattle,3019,103019,4.5,This rattle toy features a spinning frog character and a textured handle to promote grasping and exploration for babies.,Baby Toys
+Lamaze Peek-A-Boo Forest Soft Book,3020,103020,4.6,This soft book features a variety of colorful pages with crinkly textures and a cute forest theme to promote cognitive development and sensory exploration in babies.,Baby Toys
+Nuby Soothing Teething Mitten with Hygienic Travel Bag,3021,103021,4.5,This teething mitten fits over babies' hands and features a soft silicone texture and crinkly noise to soothe teething gums. It also comes with a travel bag for hygienic storage.,Baby Toys
+Skip Hop Silver Lining Cloud Jitter Stroller Toy,3022,103022,4.5,This stroller toy features a cute cloud design with colorful ribbons and a jittering motion to promote sensory exploration and fine motor skills in babies on the go.,Baby Toys
+VTech Baby Lil' Critters Spin and Discover Ferris Wheel,3023,103023,4.5,"This interactive toy features a spinning ferris wheel with lights, music, and animal sounds to promote cognitive development and sensory exploration in babies and toddlers.",Baby Toys
+Infantino Textured Multi Ball Set,3024,103024,4.6,This set of six textured balls features bright colors and multiple textures to promote sensory exploration and grasping skills in babies.,Baby Toys
+Fisher-Price Laugh & Learn Smart Stages Puppy,3025,103025,4.7,"This interactive puppy toy features over 50 songs, tunes, and phrases to promote cognitive development and sensory exploration in babies and toddlers. It also has three levels of play to grow with the child.",Baby Toys
+Infantino Grow-With-Me Activity Gym and Ball Pit,3027,103027,4.5,This activity gym features a colorful design with detachable toys and a ball pit option to promote gross motor skills and sensory exploration in babies.,Baby Toys
+Manhattan Toy Winkel Rattle and Sensory Teether Toy,3028,103028,4.7,This teething toy features a unique design with colorful plastic loops that babies can grasp and chew on. It also has a rattle noise for sensory exploration.,Baby Toys
+Nuby Ice Gel Teether Keys,3029,103029,4.5,This teether toy features a set of plastic keys filled with a cooling gel to soothe teething gums. It also has multiple textures for sensory exploration.,Baby Toys
+Playgro My First Bead Buddies Giraffe for Baby,3030,103030,4.5,This bead toy features a cute giraffe design with multiple colors and textures to promote sensory exploration and grasping skills in babies.,Baby Toys
+Lavender Soap,1,user123,4.5,This soap has a lovely lavender scent and leaves my skin feeling soft and smooth.,Floral
+Rose Bouquet,2,user456,4,The roses in this bouquet are gorgeous and smell amazing. They were delivered on time and in great condition.,Floral
+Gardenia Candle,3,user789,3.5,"This candle has a nice gardenia scent, but it doesn't last very long. The packaging is pretty, though.",Floral
+Sunflower Seeds,4,user101,4,These sunflower seeds are delicious and make a great snack. They're also a good source of protein.,Floral
+Jasmine Tea,5,user234,5,This jasmine tea is fragrant and flavorful. It's perfect for relaxing after a long day.,Floral
+Tulip Bouquet,6,user567,4.5,The tulips in this bouquet are bright and cheerful. They were delivered quickly and looked great on my dining table.,Floral
+Orchid Plant,7,user890,3,"This orchid plant is pretty, but it's a bit tricky to care for. It needs a lot of light and attention.",Floral
+Peony Perfume,8,user123,4,"This perfume has a lovely peony scent. It's not too overpowering, but it lasts a long time.",Floral
+Wildflower Honey,9,user456,4.5,This honey is delicious and has a unique floral flavor. It's great on toast or in tea.,Floral
+Daisy Bouquet,10,user789,3.5,"The daisies in this bouquet are cute, but they don't have much of a scent. They were delivered on time, though.",Floral
+Lavender Body Lotion,1001,user_001,4,This body lotion has a beautiful lavender scent that is not too overpowering. It absorbs quickly and leaves my skin feeling soft and moisturized.,Floral
+Rose Water Spray,1002,user_002,4.5,This rose water spray is perfect for refreshing my skin throughout the day. It has a lovely floral scent and doesn't feel sticky or heavy on my skin.,Floral
+Gardenia Perfume,1003,user_003,3.5,"This gardenia perfume has a sweet and floral scent that lasts for a few hours. However, I wish it was a bit stronger and lasted longer.",Floral
+Sunflower Bouquet,1004,user_004,4,This sunflower bouquet is so cheerful and brightens up any room. The flowers were delivered in great condition and lasted for over a week.,Floral
+Jasmine Body Wash,1005,user_005,5,This jasmine body wash has an amazing floral scent that lingers on my skin for hours. It also lathers well and doesn't dry out my skin.,Floral
+Tulip Bulbs,1006,user_006,4.5,These tulip bulbs were easy to plant and grew into beautiful flowers. I love the variety of colors that came in the pack.,Floral
+Orchid Necklace,1007,user_007,3,"This orchid necklace is pretty and unique, but the chain feels a bit flimsy. I also wish the pendant was a bit bigger.",Floral
+Peony Lip Balm,1008,user_008,4,This peony lip balm has a subtle floral scent and keeps my lips moisturized throughout the day. It's also a cute accessory to carry around.,Floral
+Wildflower Seeds,1009,user_009,4.5,These wildflower seeds were easy to plant and grew into a beautiful mix of colors and varieties. They also attracted a lot of bees and butterflies to my garden.,Floral
+Daisy Hair Clip,1010,user_010,3.5,"This daisy hair clip is cute and adds a pop of color to my hair. However, the clip feels a bit flimsy and doesn't hold my hair very well.",Floral
+Lavender Tea,1011,user_011,4.5,This lavender tea has a calming and soothing aroma that helps me relax before bed. It has a subtle floral flavor that's not too strong.,Floral
+Rose Bath Salts,1012,user_012,4,These rose bath salts have a lovely floral scent that makes my bath experience more relaxing. They dissolve easily and don't leave any residue in the tub.,Floral
+Hibiscus Shower Gel,2001,user_101,4,This hibiscus shower gel has a refreshing floral scent that wakes me up in the morning. It also lathers well and doesn't dry out my skin.,Floral
+Jasmine Scented Candle,2002,user_102,5,This jasmine scented candle fills my room with a beautiful floral aroma that's not too overpowering. It also burns evenly and lasts a long time.,Floral
+Peony Body Mist,2003,user_103,4.5,This peony body mist has a light and airy floral scent that's perfect for everyday wear. It also doesn't irritate my skin or leave any residue.,Floral
+Lavender Essential Oil,2004,user_104,4,This lavender essential oil has a relaxing and calming aroma that helps me unwind before bed. It's also great for aromatherapy and massage.,Floral
+Hibiscus Face Toner,1014,user_014,4.5,This hibiscus face toner has a refreshing floral scent and helps to balance my skin's pH level. It also leaves my skin feeling hydrated and plump.,Floral
+Peony Candle,1015,user_015,4,This peony candle has a beautiful floral scent that fills my room. It burns evenly and lasts for a long time.,Floral
+Iris Shower Gel,1016,user_016,3.5,This iris shower gel has a light floral scent that doesn't linger on my skin. It lathers well and doesn't dry out my skin.,Floral
+Daffodil Bouquet,1017,user_017,4,This daffodil bouquet is so cheerful and brightens up my home. The flowers were delivered in great condition and lasted for over a week.,Floral
+Jasmine Essential Oil,1018,user_018,5,This jasmine essential oil has a beautiful floral aroma that helps me to relax and unwind. It's also great for adding to my skincare routine.,Floral
+Lavender Sachets,1019,user_019,4.5,These lavender sachets have a lovely floral scent that helps me to sleep better at night. They also keep my closet smelling fresh and clean.,Floral
+Rosewater Hand Cream,1020,user_020,3,"This rosewater hand cream has a light floral scent and absorbs quickly into my skin. However, I wish it was more moisturizing for my dry hands.",Floral
+Gardenia Body Wash,1021,user_021,4,This gardenia body wash has a sweet and floral scent that lingers on my skin. It lathers well and doesn't leave any residue on my skin.,Floral
+Sunflower Seeds,1022,user_022,4.5,These sunflower seeds were easy to plant and grew into beautiful and tall flowers. They also attracted a lot of birds to my garden.,Floral
+Orchid Hair Pins,1023,user_023,3.5,"These orchid hair pins are pretty and unique, but they feel a bit heavy on my hair. I also wish they came in a bigger variety of colors.",Floral
+Peony Bath Bomb,1024,user_024,4.5,This peony bath bomb has a lovely floral scent that makes my bath experience more luxurious. It also leaves my skin feeling soft and smooth.,Floral
+Wildflower Bouquet,1025,user_025,4,This wildflower bouquet is so colorful and diverse. The flowers were delivered in great condition and lasted for over a week.,Floral
+Korean Skincare Set,2001,user_101,4.5,"This Korean skincare set includes a cleanser, toner, essence, and moisturizer. It has transformed my skin and given me a glowing and clear complexion.",Multi-Cultural
+African Print Headwrap,2002,user_102,4,This African print headwrap is vibrant and beautiful. It's easy to tie and stays in place all day.,Multi-Cultural
+Indian Spices Gift Set,2003,user_103,4.5,This Indian spices gift set includes a variety of spices that are essential in Indian cuisine. They add so much flavor to my dishes.,Multi-Cultural
+Latin American Cookbook,2004,user_104,5,This Latin American cookbook has a variety of authentic and delicious recipes from different Latin American countries.,Multi-Cultural
+Japanese Tea Set,2005,user_105,4,"This Japanese tea set is elegant and comes with a teapot, cups, and a tray. It's perfect for serving tea to guests.",Multi-Cultural
+Nigerian Shea Butter,2006,user_106,4.5,This Nigerian shea butter is rich and moisturizing. It has improved the texture of my skin and has helped to heal my dry patches.,Multi-Cultural
+Mexican Embroidered Blouse,2007,user_107,4,This Mexican embroidered blouse is colorful and unique. It's perfect for dressing up or dressing down.,Multi-Cultural
+Chinese Calligraphy Set,2008,user_108,3.5,"This Chinese calligraphy set includes brushes, ink, and paper. It's great for practicing calligraphy and learning Chinese characters.",Multi-Cultural
+African Black Soap,2009,user_109,4.5,This African black soap is gentle and effective. It has helped to clear up my acne and has improved the overall appearance of my skin.,Multi-Cultural
+Jamaican Jerk Seasoning,2010,user_110,4,"This Jamaican jerk seasoning adds a spicy and flavorful kick to my dishes. It's great on chicken, pork, and vegetables.",Multi-Cultural
+Thai Massage Mat,2011,user_111,3.5,This Thai massage mat is comfortable and supportive. It's great for stretching and practicing yoga.,Multi-Cultural
+Korean Face Masks,2012,user_112,4.5,These Korean face masks are hydrating and refreshing. They leave my skin feeling soft and moisturized.,Multi-Cultural
+Brazilian Bikini,2013,user_113,4,This Brazilian bikini is sexy and flattering. It's perfect for the beach or pool.,Multi-Cultural
+Moroccan Argan Oil,2014,user_114,4.5,This Moroccan argan oil is nourishing and moisturizing. It has helped to smooth and soften my hair and has reduced frizz.,Multi-Cultural
+Turkish Tea Set,2015,user_115,4,"This Turkish tea set is beautiful and functional. It comes with a teapot, glasses, and a tray. It's perfect for serving tea to guests.",Multi-Cultural
+South Asian Cookbook,2016,user_116,5,"This South Asian cookbook has a variety of delicious recipes from different South Asian countries. It includes recipes for curries, biryanis, and more.",Multi-Cultural
+African Tribal Print Dress,2017,user_117,4.5,This African tribal print dress is colorful and eye-catching. It's perfect for a summer day or a night out.,Multi-Cultural
+Japanese Sake Set,2018,user_118,4,This Japanese sake set is elegant and functional. It comes with a sake bottle and cups. It's perfect for serving sake to guests.,Multi-Cultural
+Nigerian Jollof Rice Seasoning,2019,user_119,4.5,This Nigerian Jollof rice seasoning adds a flavorful and aromatic touch to my rice dishes. It includes a blend of herbs and spices that are essential in Nigerian cuisine.,Multi-Cultural
+Mexican Handwoven Basket,2020,user_120,4,"This Mexican handwoven basket is versatile and unique. It's great for storing blankets, toys, or other household items.",Multi-Cultural
+Chinese Tea Set,2021,user_121,3.5,"This Chinese tea set is beautiful and functional. It comes with a teapot, cups, and a tray. It's perfect for serving tea to guests.",Multi-Cultural
+African Black Soap Bar,2022,user_122,4.5,This African black soap bar is gentle and effective. It has helped to clear up my acne and has improved the overall appearance of my skin.,Multi-Cultural
+Jamaican Rum Cake,2023,user_123,4,This Jamaican rum cake is rich and delicious. It's perfect for a special occasion or as a gift.,Multi-Cultural
+Thai Fisherman Pants,2024,user_124,3.5,"These Thai fisherman pants are comfortable and breathable. They're great for yoga, meditation, or lounging around the house.",Multi-Cultural
+West African Kente Cloth,2026,user_126,4,This West African Kente cloth is vibrant and stunning. It's perfect for wearing as a wrap or using as a decorative piece.,Multi-Cultural
+Indian Spice Set,2027,user_127,5,"This Indian spice set includes a variety of spices commonly used in Indian cuisine. It's perfect for adding flavor to curries, soups, and other dishes.",Multi-Cultural
+Peruvian Alpaca Sweater,2028,user_128,4.5,This Peruvian alpaca sweater is soft and warm. It's perfect for chilly days and looks great with jeans or leggings.,Multi-Cultural
+Lebanese Za'atar Spice Blend,2029,user_129,4,This Lebanese Za'atar spice blend is a mixture of herbs and spices that add a delicious flavor to a variety of dishes. It's perfect for sprinkling on bread or using as a seasoning for meat or vegetables.,Multi-Cultural
+South African Rooibos Tea,2030,user_130,4.5,This South African Rooibos tea is delicious and caffeine-free. It's perfect for enjoying in the evening or anytime you want a soothing and calming beverage.,Multi-Cultural
+Nigerian Ankara Dress,2031,user_131,4,This Nigerian Ankara dress is stylish and colorful. It's perfect for a special occasion or a night out.,Multi-Cultural
+Japanese Ramen Bowl Set,2032,user_132,3.5,"This Japanese ramen bowl set is functional and attractive. It includes bowls, chopsticks, and spoons. It's perfect for serving ramen or other noodle dishes.",Multi-Cultural
+Jamaican Jerk Seasoning,2033,user_133,4.5,This Jamaican jerk seasoning adds a spicy and flavorful kick to a variety of dishes. It's perfect for marinating meat or adding to soups and stews.,Multi-Cultural
+Thai Curry Paste,2034,user_134,4,"This Thai curry paste is a blend of herbs and spices commonly used in Thai cuisine. It's perfect for adding flavor to curries, soups, and other dishes.",Multi-Cultural
+Moroccan Mint Tea,2035,user_135,4.5,This Moroccan mint tea is refreshing and invigorating. It's perfect for enjoying on a hot day or as a pick-me-up anytime.,Multi-Cultural
+Korean Kimchi,2037,user_137,4.5,"This Korean kimchi is a spicy and tangy side dish that's perfect for adding to rice bowls, sandwiches, or eating on its own.",Multi-Cultural
+Egyptian Cotton Bed Sheets,2038,user_138,5,These Egyptian cotton bed sheets are soft and luxurious. They're perfect for getting a good night's sleep and making your bedroom look elegant and stylish.,Multi-Cultural
+Tibetan Prayer Flags,2039,user_139,4,These Tibetan prayer flags are colorful and symbolic. They're perfect for hanging outside or indoors to bring a peaceful and positive energy to your space.,Multi-Cultural
+Brazilian Coffee,2040,user_140,4.5,This Brazilian coffee is rich and full-bodied. It's perfect for enjoying in the morning or as a pick-me-up anytime.,Multi-Cultural
+Mexican Handmade Pottery,2041,user_141,4,This Mexican handmade pottery is unique and beautiful. It's perfect for using as a decorative piece or for serving food.,Multi-Cultural
+Nigerian Jollof Rice Seasoning,2042,user_142,4.5,This Nigerian Jollof rice seasoning adds a delicious and authentic flavor to your rice dishes. It's perfect for making Jollof rice or for adding to other rice dishes for an African twist.,Multi-Cultural
+Persian Rug,2043,user_143,5,This Persian rug is handwoven and intricate. It's perfect for adding warmth and style to your home.,Multi-Cultural
+Chinese Tea Set,2044,user_144,4,"This Chinese tea set is elegant and functional. It includes a teapot, cups, and a tray. It's perfect for enjoying a cup of tea with friends or for using as a decorative piece.",Multi-Cultural
+Haitian Metal Art,2045,user_145,4.5,This Haitian metal art is unique and creative. It's perfect for using as a decorative piece or for hanging on a wall.,Multi-Cultural
+Vietnamese Pho Soup Spices,2046,user_146,4,These Vietnamese pho soup spices are a blend of herbs and spices commonly used in pho noodle soup. They're perfect for adding flavor and authenticity to your homemade pho.,Multi-Cultural
+Turkish Mosaic Lamp,2047,user_147,4.5,This Turkish mosaic lamp is colorful and beautiful. It's perfect for adding a warm and cozy ambiance to your home.,Multi-Cultural
