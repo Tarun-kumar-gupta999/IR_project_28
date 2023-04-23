@@ -65,5 +65,7 @@ If you have any questions or feedback about the product recommendation system, p
 # Popularity-Based Filtering
 Popularity-based filtering is a simple technique that recommends items based on their overall popularity or sales. In this project, we use popularity-based filtering to recommend products to new users who indicate that they are not already registered.
 
+# Evaluation Metric 
 
+In this Project our evaluation metric is measuring How accurate our model is predicting i.e. what products our model is giving or recommending and what should it actually recommend so for this we are using a prediction array which will include the ratings given by a particular user on every product if user has not given any rating then that cell will conatin 0.Then we are calculating values for another array which include values for every product on the basis of prediction what rating user could have given if he/she buys it i.e. simply the difference between given ratings and predicted ratings after applying different filtering models.
 
