@@ -1,0 +1,72 @@
+ <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <!-- basic -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- mobile metas -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <!-- site metas -->
+      <title>Popularity based</title>
+      <meta name="keywords" content="">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <!-- bootstrap css -->
+<!--      <link rel="stylesheet" href="./templates/css/bootstrap.min.css">-->
+
+      <!-- style css -->
+        <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet" type="text/css" />
+        <link href="{{ url_for('static', filename='css/responsive.css') }}" rel="stylesheet" type="text/css" />
+        <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
+
+<!--      <link rel="stylesheet" href="css/style.css">-->
+      <!-- Responsive-->
+<!--      <link rel="stylesheet" href="css/responsive.css">-->
+
+   </head>
+<body >
+
+<section class="banner_main">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-7">
+                  <div class="text-bg">
+                     <div class="padding_lert">
+
+                        <h1>Hey!<br> welcome to our product recommendation system</h1>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-5 bah">
+                  <div class="bann_img">
+<!--                      change-->
+                     <figure><img src="static/images/bann_img.png" alt=""/></figure>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+<div id="services" class="service">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-5">
+                  <div class="service_img">
+                     <img src="static/images/pc.png" alt=""/>
+                  </div>
+               </div>
+               <div class="col-md-7">
+                  <div class="titlepage">
+                     <h2 style="margin-Bottom:30px;margin-Left:90px">Here are some products you can buy</h2>
+                      <h3 style="color:green">                   <ul>
+        {% for element in r %}
+        <li>{{ element }}</li>
+        {% endfor %}
+    </ul></h3>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+    </body>
+ </html>

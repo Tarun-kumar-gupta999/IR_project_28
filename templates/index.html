@@ -1,74 +1,78 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-    <title>Document</title>
-
-
-    <!DOCTYPE html>
-    <html>
+ <!DOCTYPE html>
+    <html lang="en">
     <head>
-        <title>Enter the product user has bought</title>
+      <!-- basic -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- mobile metas -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <!-- site metas -->
+      <title>Details</title>
+      <meta name="keywords" content="">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <!-- bootstrap css -->
+<!--      <link rel="stylesheet" href="./templates/css/bootstrap.min.css">-->
 
+      <!-- style css -->
+        <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet" type="text/css" />
+        <link href="{{ url_for('static', filename='css/responsive.css') }}" rel="stylesheet" type="text/css" />
+        <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
 
+<!--      <link rel="stylesheet" href="css/style.css">-->
+      <!-- Responsive-->
+<!--      <link rel="stylesheet" href="css/responsive.css">-->
 
-        <style>
-            body {
-                font-family: Arial, sans-serif;
-                text-align: center;
-                background-color: aquamarine;
-            }
-            input[type="text"] {
-                padding: 10px;
-                font-size: 16px;
-                border-radius: 5px;
-                border: 1px solid #ccc;
-                width: 300px;
-                margin-bottom: 10px;
-            }
-            button {
-                background-color: #4CAF50;
-                color: white;
-                padding: 10px 20px;
-                border: none;
-                border-radius: 5px;
-                cursor: pointer;
-                transition: all 0.3s ease;
-            }
-            button:hover {
-                background-color: #3e8e41;
-            }
-        </style>
-    </head>
+   </head>
+<body >
 
-    <body >
+<section class="banner_main">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-7">
+                  <div class="text-bg">
+                     <div class="padding_lert">
 
+                        <h1>Hey!<br>Welcome back Please enter your details</h1>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-5 bah">
+                  <div class="bann_img">
+<!--                      change-->
+                     <figure><img src="static/images/bann_img.png" alt=""/></figure>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+<div id="services" class="service">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-5">
+                  <div class="service_img">
+                     <img src="static/images/pc.png" alt=""/>
+                  </div>
+               </div>
+               <div class="col-md-7">
+                  <div class="titlepage">
+                     <h2 style="margin-Bottom:30px;margin-Left:90px">Enter the Details</h2>
+                      <form style="margin-Left:90px" name="passdata" action="/pass" method="post">
+                          <label ><h3 style="margin-Right:90px"><b>User Id :</b></h3></label>
+                          <input type="number" name="name1">
+                          <br>
 
-        </p>
-        <h1>Enter the product user has bought</h1>
-        <form name="passdata" action="." method="post">
-            <label for="input">Product Name</label>
-            <input type="text" name="name">
-<!--            <label >User</label>-->
-<!--            <input type="number" name="name1">-->
-            <input type="submit" value="submit">
-        </form>
-        <div id="output"></div>
+                          <label><h3 style="margin-Right:13px"><b>Product Name: </b></h3></label>
+                          <input type="text" name="name">
+                          <br>
+                          <input type="submit" value="submit">
 
-        <script>
-            function display() {
-                var input = document.getElementById("input").value;
-                document.getElementById("output").innerHTML = "You entered: " + input;
-            }
-        </script>
-
-
+                      </form>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
     </body>
-    </html>
-
-</head>
-
-</html>
+ </html>

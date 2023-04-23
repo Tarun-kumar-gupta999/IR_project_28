@@ -1,0 +1,98 @@
+ <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <!-- basic -->
+
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- mobile metas -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <!-- site metas -->
+      <title>Product Recommendation System</title>
+      <meta name="keywords" content="">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <!-- bootstrap css -->
+<!--      <link rel="stylesheet" href="./templates/css/bootstrap.min.css">-->
+
+      <!-- style css -->
+        <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet" type="text/css" />
+        <link href="{{ url_for('static', filename='css/responsive.css') }}" rel="stylesheet" type="text/css" />
+        <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
+
+<!--      <link rel="stylesheet" href="css/style.css">-->
+      <!-- Responsive-->
+<!--      <link rel="stylesheet" href="css/responsive.css">-->
+        <style>
+            input[type="submit"] {
+          background-color: #4CAF50;
+          color: white;
+          padding: 12px 24px;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+          font-size: 16px;
+          transition: all 0.3s ease;
+          box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);
+          }
+          input[type="submit"]:hover {
+              background-color: #3e8e41;
+            }
+
+            input[type="submit"]:active {
+              transform: translateY(2px);
+              box-shadow: none;
+            }
+
+        </style>
+
+   </head>
+<body >
+
+<section class="banner_main">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-7">
+                  <div class="text-bg">
+                     <div class="padding_lert">
+
+                        <h1>Welcome to Product recommendation system</h1>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-5 bah">
+                  <div class="bann_img">
+<!--                      change-->
+                     <figure><img src="static/images/bann_img.png" alt=""/></figure>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+<div id="services" class="service">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-5">
+                  <div class="service_img">
+                     <img src="static/images/pc.png" alt=""/>
+                  </div>
+               </div>
+               <div class="col-md-7">
+                  <div class="titlepage">
+                     <h2 style="margin-Bottom:30px;margin-Left:90px">Are you New User</h2>
+                      <form style="margin-Left:50%" name="passdata" action="/yes_submit" method="post">
+                            <input type="submit" value="Yes">
+                      </form>
+                      <br>
+
+                      <form style="margin-Left:50%" name="passdata" action="/no_submit" method="post">
+                            <input type="submit" value="No">
+                      </form>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+    </body>
+ </html>
