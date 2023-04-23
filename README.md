@@ -1,7 +1,9 @@
-Product Recommendation System
+<font size="10"><b>Product Recommendation System</b></font>
+
 This project is a product recommendation system that uses a combination of collaborative and content-based filtering to provide personalized recommendations to users.
 
 Table of Contents
+
 Introduction
 Installation and Setup
 Usage
