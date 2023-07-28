@@ -1,3 +1,13 @@
+# <b>Information Retrieval Project</b>
+Group Member:
+Tarun Kumar Gupta
+Rachit Gupta
+Ritika Nagar
+Akshat Tilak
+Shubham Sethi
+Kartik Gupta
+
+
 # <b>Product Recommendation System</b>
 
 This project is a product recommendation system that uses a combination of collaborative and content-based filtering to provide personalized recommendations to users.
