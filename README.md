@@ -1,10 +1,16 @@
 # <b>Information Retrieval Project</b>
 Group Member:
+
 Tarun Kumar Gupta
+
 Rachit Gupta
+
 Ritika Nagar
+
 Akshat Tilak
+
 Shubham Sethi
+
 Kartik Gupta
 
 
